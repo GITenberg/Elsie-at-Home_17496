@@ -1,0 +1,37 @@
+_repo: Elsie-at-Home_17496
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Finley, Martha
+    aliases:
+    - Cousin Martha
+    - Farquharson, Martha
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '2044'
+    url: http://www.gutenberg.org/2009/agents/2044
+    wikipedia: http://www.readseries.com/auth-dm/finley1.html
+description: Elsie's family continues to grow and flourish, embracing both new life
+  as well as death. Evelyn's mother, Laura Leland, is very ill with consumption; brothers
+  Arthur and Calhoun Conley both become fathers. Rosie Travilla and Will Croly tie
+  the knot, as do long-time bachelor Dick Percival and Maud Dinsmore. In the midst
+  of change, the family remains steadfastly thankful for all that God has gfiven them.
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2006-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17496'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marriage -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Dinsmore, Elsie (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+title: Elsie at Home
+url: http://www.gutenberg.org/ebooks/17496
